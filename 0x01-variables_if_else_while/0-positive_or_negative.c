@@ -4,10 +4,10 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main - main function
- *
- * Return: always 0
- */
+* main - main function
+*
+* Return: always 0
+*/
 int main(void)
 {
 	int n;
@@ -21,5 +21,6 @@ int main(void)
 		printf("%d is zero", n);
 	else if (n < 0)
 		printf("%d is zero", n);
+	printf("\n");
 	return (0);
 }
