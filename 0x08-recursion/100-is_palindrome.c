@@ -18,7 +18,7 @@ int is_palindrome(char *s)
 }
 
 /**
-  * check_palindrome -Check if a string is palindrome
+  * check_palindrome -Check if a string is a palindrome
   * @s: the string value to be checked
   *
   * Return: int value
