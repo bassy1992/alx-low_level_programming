@@ -2,12 +2,11 @@
 #include <stdio.h>
 
 /**
-  * main -Print the number of args
+  * main - Print the number of args
   * @argc: arguments counts
   * @argv: arguments vectors
   *
   * Return: Always 0
-  * 
   */
 
 int main(int argc, char *argv[])
